@@ -17,3 +17,6 @@ a {
  text-decoration: none;
 
 }
+p      { color: green; }
+.note  { color: orange; }
+#intro { color: purple; }
